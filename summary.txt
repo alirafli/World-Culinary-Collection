@@ -2,3 +2,8 @@ indian food
 - biryani
 - panipuri
 - samosa
+
+japanese food
+- natto
+- sushi
+- takoyaki
